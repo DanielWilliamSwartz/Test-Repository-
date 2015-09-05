@@ -1,0 +1,1 @@
+import collection1 from McDonalds
